@@ -1,5 +1,6 @@
 # Olá, eu sou Yuri! 👋
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriSouzaDev&layout=compact" alt="github status" min-width="250px" max-width="250px" width="250px" align="right">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YuriSouzaDev&theme=dark&hide_border=false" alt="Github stats" min-width="250px" max-width="250px" width="250px" align="right">
 <p align="left">- 📚 Estudante de Ciências da computação</p>
 <p align="left">- 🖥️ Desenvolvedor FrontEnd</p>
 <p align="left">- 🚀 Em desenvolvimento de habilidade full stack e mobileo</p>
