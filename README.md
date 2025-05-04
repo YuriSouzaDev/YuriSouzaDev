@@ -26,8 +26,8 @@
 
 ## 🛠 Tecnologias que estou estudando
 <div style="display: inline-block gap: 5px">
-    <img align="center" alt="deno" src="https://img.shields.io/badge/Deno-white?style=for-the-badge&logo=deno&logoColor=464647" />
-    <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+    <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img align="center" alt="spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" /> 
 </div><br />
 
 ## Últimos projetos
